@@ -65,7 +65,11 @@ In this project, we explore the use of **Federated Learning (FL)** to train mach
 We apply **deep learning and machine learning algorithms** for medical image classification and compare their performance using common evaluation metrics such as accuracy, precision, recall, and F1-score. The goal is to improve diagnostic performance while maintaining data confidentiality across healthcare institutions.
 
 As part of future work, we plan to integrate **Explainable AI (XAI)** techniques such as **SHAP (SHapley Additive exPlanations)** and **LIME (Local Interpretable Model-agnostic Explanations)**. These methods will help highlight the important regions or features in medical images that influence model predictions. By providing interpretable insights, the system can support doctors in making **timely and more reliable clinical decisions**, ultimately improving patient monitoring and follow-up care.
+## Experimental Results
 
+The performance comparison of deep learning models on the ISIC 2019 dataset is available below:
+
+[Download Results](results/results.xlsx)
 
 ## Author
 

@@ -51,6 +51,12 @@ This project explores the integration of:
 * Medical image analysis
 * Explainable AI for clinical decision support
 
+## Experimental Results
+
+The performance results of the proposed Federated Learning + XAI model are stored in the Excel file below.
+
+[Download Results](results/results.xlsx)
+
 ## Author
 
 **Keabineh Kaleb keba**

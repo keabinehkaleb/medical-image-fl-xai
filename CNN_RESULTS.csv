@@ -1,0 +1,4 @@
+Model,Train Images,Validation Images,Test Images,Image Size,Train Time,Validation Time,Test Time,Accuracy,Balanced Accuracy,Precision,Recall,F1 Score
+ResNet18,20040,3790,3800,224,47016.63,196.36,196.02,0.6547,0.6417,0.5148,0.6417,0.5588
+MobileNetV2,20040,3790,3800,224,33799.19,79.64,91.73,0.6074,0.6114,0.5396,0.6114,0.5506
+EfficientNetB0,20040,3790,3800,224,47117.43,122.27,140.61,0.7111,0.6321,0.6522,0.6321,0.6388
